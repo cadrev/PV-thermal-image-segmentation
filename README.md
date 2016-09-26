@@ -8,6 +8,6 @@ I used DBSCAN to segment Photovoltaic Thermal Images for possible hotspot detect
 
 **Hotspot**
 
-<img src="https://github.com/cadrev/PV-thermal-image-segmentation/blob/master/hotspot_detected.PNG" width="230">
+<img src="https://github.com/cadrev/PV-thermal-image-segmentation/blob/master/hotspot_detected.PNG" width="300">
 
 
